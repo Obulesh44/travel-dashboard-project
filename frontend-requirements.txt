@@ -1,0 +1,5 @@
+# Use these with npm or yarn in the frontend directory:
+react
+react-dom
+react-router-dom
+axios
